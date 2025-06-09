@@ -1,4 +1,4 @@
-# recursion-examples
+# Recursion-examples
 **Recursion in DSA (Data Structures & Algorithms)** is a fundamental concept where a function calls itself to solve a problem. It breaks the problem into smaller subproblems until a base condition is met.
 
 ---
